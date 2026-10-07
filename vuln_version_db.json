@@ -1,0 +1,10 @@
+{
+  "jquery": {"fixed_in": "3.5.0", "advisory": "Prototype pollution / XSS (CVE-2020-11022, CVE-2020-11023)"},
+  "wordpress": {"fixed_in": "6.4.2", "advisory": "Multiple core CVEs patched before 6.4.2"},
+  "apache": {"fixed_in": "2.4.58", "advisory": "Multiple httpd CVEs patched before 2.4.58"},
+  "nginx": {"fixed_in": "1.25.3", "advisory": "Multiple nginx CVEs patched before 1.25.3"},
+  "openssl": {"fixed_in": "3.0.13", "advisory": "Multiple OpenSSL CVEs patched before 3.0.13"},
+  "php": {"fixed_in": "8.1.27", "advisory": "Multiple PHP CVEs patched before 8.1.27"},
+  "lodash": {"fixed_in": "4.17.21", "advisory": "Prototype pollution (CVE-2020-8203, CVE-2020-28500)"},
+  "bootstrap": {"fixed_in": "4.3.1", "advisory": "XSS in data-target/data-container (CVE-2019-8331)"}
+}
